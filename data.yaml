@@ -1,0 +1,3 @@
+
+nc: 6
+names: ['BottomAllowed', 'BottomNotAllowed', 'ShoesAllowed', 'ShoesNotAllowed', 'TopAllowed', 'TopNotAllowed']
